@@ -1,0 +1,211 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">INFOHUB</string>
+    <string-array name="options">
+        <item>Documentation</item>
+        <item>Tutorials</item>
+        <item>Practice Questions</item>
+    </string-array>
+    <string-array name="Linux">
+        <item>What is linux</item>
+        <item>Basic commmands</item>
+        <item>Navigating and Creating Directories</item>
+        <item>Listing files and Directories</item>
+        <item>Copy and Pasting Files</item>
+        <item>Moving Files</item>
+        <item>Removing Files)</item>
+        <item>Installing and Removing Packages</item>
+        <item>Archieve Files and Directories</item>
+        <item>Get help</item>
+        <item>Demo</item>
+    </string-array>
+
+    <string-array name="Youtube">
+        <item>Jason Haddix</item>
+        <item>Defcon</item>
+        <item>Hak5</item>
+        <item>NullByte</item>
+        <item>Bugcrowd</item>
+        <item>Black Hat</item>
+        <item>Saad Ahmed</item>
+        <item>Devil Killer</item>
+        <item>Suleman Malik</item>
+        <item>Penetration Testing in Linux</item>
+        <item>securityidiots.com</item>
+        <item>JackkTutorials</item>
+    </string-array>
+
+    <string-array name="Books">
+        <item>CEH V10</item>
+        <item>Hacker’s Playbook 2</item>
+        <item>Hacker’s Playbook 3</item>
+        <item>Mobile Hacking</item>
+        <item>Modern Web Pentesting</item>
+        <item>No Starch</item>
+        <item>OTGV4</item>
+        <item>Penetration testing</item>
+        <item>Web Hacking 101</item>
+        <item>The Web Application Pentesting</item>
+        <item>Violent Python</item>
+    </string-array>
+
+    <string-array name="AndroidHacking">
+        <item>Basic Android App Structure</item> //https://www.hackerone.com/blog/androidhackingmonth-intro-to-android-hacking
+        <item>Best Hacking Apps</item> //https://fossbytes.com/10-best-android-hacking-app/
+        <item>Hack an Android Device Remotely</item> // https://null-byte.wonderhowto.com/how-to/hack-android-using-kali-remotely-0160161/
+        <item>Install Kali on Android (Without Root)</item> //https://null-byte.wonderhowto.com/how-to/android-for-hackers-turn-android-phone-into-hacking-device-without-root-0189649/
+        <item>Types of Android Attacks</item>
+
+        <item>Crack WIFI Passwords</item> //https://null-byte.wonderhowto.com/how-to/crack-wi-fi-passwords-with-your-android-phone-and-get-free-internet-0139261/
+    </string-array>
+
+    <string-array name="PasswordCracking">
+        <item>Crack Facebook Password</item> //https://null-byte.wonderhowto.com/how-to/4-ways-crack-facebook-password-protect-yourself-from-them-0139532/
+        <item>Crack Wifi Passwords (Android)</item> //https://null-byte.wonderhowto.com/how-to/crack-wi-fi-passwords-with-your-android-phone-and-get-free-internet-0139261/
+        <item>Crack WPA, WPA2 Wi-Fi Passwords with Pyrit</item>//https://null-byte.wonderhowto.com/how-to/crack-wpa-wpa2-wi-fi-passwords-with-pyrit-0196782/
+    </string-array>
+
+    <string-array name="WifiHacking" tools:ignore="DuplicateDefinition">
+        <item>Automating Wi-Fi Hacking with Besside-ng</item>//https://null-byte.wonderhowto.com/how-to/hack-wi-fi-automating-wi-fi-hacking-with-besside-ng-0176170/
+        <item>Break into Router Gateways with Patator</item> //https://null-byte.wonderhowto.com/how-to/break-into-router-gateways-with-patator-0194600/
+        <item>Hack Wi-Fi Networks with Bettercap</item> // https://null-byte.wonderhowto.com/how-to/hack-wi-fi-networks-with-bettercap-0194422/
+        <item>Crack Wi-Fi Passwords with Your Android Phone and Get Free Internet!</item> ?? https://null-byte.wonderhowto.com/how-to/crack-wi-fi-passwords-with-your-android-phone-and-get-free-internet-0139261/
+        <item>Control Network Traffic with Evil Limiter to Throttle or Kick Off Devices</item> //https://null-byte.wonderhowto.com/how-to/control-network-traffic-with-evil-limiter-throttle-kick-off-devices-0196137/
+        <item>Spy on Network Relationships with Airgraph-Ng</item> // https://null-byte.wonderhowto.com/how-to/spy-network-relationships-with-airgraph-ng-0193309/
+        <item>Automate Wi-Fi Hacking with Wifite2</item>// https://null-byte.wonderhowto.com/how-to/automate-wi-fi-hacking-with-wifite2-0191739/
+        <item>Inconspicuously Sniff Wi-Fi Data Packets Using an ESP8266</item>// https://null-byte.wonderhowto.com/how-to/inconspicuously-sniff-wi-fi-data-packets-using-esp8266-0192829/
+        <item>Use Ettercap to Intercept Passwords with ARP Spoofing</item>// https://null-byte.wonderhowto.com/how-to/use-ettercap-intercept-passwords-with-arp-spoofing-0191191/
+        <item>Cracking WPA2 Passwords Using the New PMKID Hashcat Attack</item>// https://null-byte.wonderhowto.com/how-to/hack-wi-fi-cracking-wpa2-passwords-using-new-pmkid-hashcat-attack-0189379/
+        <item>Detect, Classify Wi-Fi Jamming Packets with the NodeMCU</item>// https://null-byte.wonderhowto.com/how-to/detect-classify-wi-fi-jamming-packets-with-nodemcu-0188668/
+        <item>Detect Script-Kiddie Wi-Fi Jamming with Wireshark</item> // https://null-byte.wonderhowto.com/how-to/detect-script-kiddie-wi-fi-jamming-with-wireshark-0186138/
+        <item>Program a $6 NodeMCU to Detect Wi-Fi Jamming Attacks in the Arduino IDE</item> // https://null-byte.wonderhowto.com/how-to/program-6-nodemcu-detect-wi-fi-jamming-attacks-arduino-ide-0186356/
+        <item>Track Wi-Fi Devices, Connect to Them Using Probequest</item> // https://null-byte.wonderhowto.com/how-to/track-wi-fi-devices-connect-them-using-probequest-0186137/
+        <item>Hack Wi-Fi, Networks More Easily with Lazy Script</item> // https://null-byte.wonderhowto.com/how-to/hack-wi-fi-networks-more-easily-with-lazy-script-0185764/
+        <item>Use MDK3 for Advanced Wi-Fi Jamming</item>// https://null-byte.wonderhowto.com/how-to/use-mdk3-for-advanced-wi-fi-jamming-0185832/
+        <item>The Beginners Guide to Defending Against Wi-Fi Hacking</item>// https://null-byte.wonderhowto.com/how-to/beginners-guide-defending-against-wi-fi-hacking-0185217/
+        <item>Hack WPA2 Wi-Fi Passwords Using Jedi Mind Tricks (USB Dead Drops)</item> // https://null-byte.wonderhowto.com/how-to/hack-wpa2-wi-fi-passwords-using-jedi-mind-tricks-usb-dead-drops-0185290/
+        <item>Stealing Wi-Fi Passwords with an Evil Twin Attack</item> // https://null-byte.wonderhowto.com/how-to/hack-wi-fi-stealing-wi-fi-passwords-with-evil-twin-attack-0183880/
+        <item>Disabling Security Cameras on Any Wireless Network with Aireplay-Ng</item> // https://null-byte.wonderhowto.com/how-to/hack-wi-fi-disabling-security-cameras-any-wireless-network-with-aireplay-ng-0185435/
+        <item>Hack WPA,WPA2 Wi-Fi Passwords with a Pixie-Dust Attack Using Airgeddon</item>// https://null-byte.wonderhowto.com/how-to/hack-wpa-wpa2-wi-fi-passwords-with-pixie-dust-attack-using-airgeddon-0183556/
+        <item>Hunting Down,Cracking WEP Networks</item> // https://null-byte.wonderhowto.com/how-to/hack-wi-fi-hunting-down-cracking-wep-networks-0183712/
+        <item>Stealthfully Sniff Wi-Fi Activity Without Connecting to a Target Router</item> // https://null-byte.wonderhowto.com/how-to/stealthfully-sniff-wi-fi-activity-without-connecting-target-router-0183444/
+        <item>Hack Anyones Wi-Fi Password Using a Birthday Card, Part 2 (Executing the Attack)</item> // https://null-byte.wonderhowto.com/how-to/hack-anyones-wi-fi-password-using-birthday-card-part-2-executing-attack-0183062/
+        <item>Hack Open Hotel, Airplane, Coffee Shop Wi-Fi with MAC Address Spoofing</item> // https://null-byte.wonderhowto.com/how-to/hack-open-hotel-airplane-coffee-shop-wi-fi-with-mac-address-spoofing-0183387/
+        <item>Hack Anyones Wi-Fi Password Using a Birthday Card, Part 1 (Creating the Payload)</item>// https://null-byte.wonderhowto.com/how-to/hack-anyones-wi-fi-password-using-birthday-card-part-1-creating-payload-0183043/
+        <item>How to Crack Weak Wi-Fi Passwords in Seconds with Airgeddon on Parrot OS</item>//https://null-byte.wonderhowto.com/how-to/video-crack-weak-wi-fi-passwords-seconds-with-airgeddon-parrot-os-0181434/
+        <item>Use Kismet to Watch Wi-Fi User Activity Through Walls</item>//https://null-byte.wonderhowto.com/how-to/use-kismet-watch-wi-fi-user-activity-through-walls-0182214/
+        <item>Build a Software-Based Wi-Fi Jammer with Airgeddon</item>// https://null-byte.wonderhowto.com/how-to/hack-wi-fi-build-software-based-wi-fi-jammer-with-airgeddon-0176129/
+        <item>Capturing WPA Passwords by Targeting Users with a Fluxion Attack</item>https://null-byte.wonderhowto.com/how-to/hack-wi-fi-capturing-wpa-passwords-by-targeting-users-with-fluxion-attack-0176134/
+        <item>Selecting a Good Wi-Fi Hacking Strategy</item>// https://null-byte.wonderhowto.com/how-to/hack-wi-fi-selecting-good-wi-fi-hacking-strategy-0162526/
+        <item>Get Anyones Wi-Fi Password Without Cracking Using Wifiphisher</item>// https://null-byte.wonderhowto.com/how-to/hack-wi-fi-get-anyones-wi-fi-password-without-cracking-using-wifiphisher-0165154/
+        <item>DoSing a Wireless AP Continuously</item>// https://null-byte.wonderhowto.com/how-to/hack-wi-fi-dosing-wireless-ap-continuously-0159645/
+        <item>Evading an Authentication Proxy Using ICMPTX</item> // https://null-byte.wonderhowto.com/how-to/hack-wi-fi-evading-authentication-proxy-using-icmptx-0150347/
+        <item>Breaking a WPS PIN to Get the Password with Bully</item> // https://null-byte.wonderhowto.com/how-to/hack-wi-fi-breaking-wps-pin-get-password-with-bully-0158819/
+        <item>Choosing a Wireless Adapter for Hacking</item>// https://null-byte.wonderhowto.com/how-to/hack-wi-fi-choosing-wireless-adapter-for-hacking-0157057/
+        <item>Cracking WPA2-PSK Passwords Using Aircrack-Ng</item>// https://null-byte.wonderhowto.com/how-to/hack-wi-fi-cracking-wpa2-psk-passwords-using-aircrack-ng-0148366/
+        <item>Cracking WPA2-PSK Passwords with Cowpatty</item>// https://null-byte.wonderhowto.com/how-to/hack-wi-fi-cracking-wpa2-psk-passwords-with-cowpatty-0148423/
+        <item>Cracking WEP Passwords with Aircrack-Ng</item>// https://null-byte.wonderhowto.com/how-to/hack-wi-fi-cracking-wep-passwords-with-aircrack-ng-0147340/
+        <item>Creating an Evil Twin Wireless Access Point to Eavesdrop on Data</item>// https://null-byte.wonderhowto.com/how-to/hack-wi-fi-creating-evil-twin-wireless-access-point-eavesdrop-data-0147919/
+        <item>Performing a Denial of Service (DoS) Attack on a Wireless Access Point</item>// https://null-byte.wonderhowto.com/how-to/hack-wi-fi-performing-denial-service-dos-attack-wireless-access-point-0147988/
+        <item>Getting Started with the Aircrack-Ng Suite of Wi-Fi Hacking Tools</item> // https://null-byte.wonderhowto.com/how-to/hack-wi-fi-getting-started-with-aircrack-ng-suite-wi-fi-hacking-tools-0147893/
+        <item>Getting Started with Terms, Technologies</item>// https://null-byte.wonderhowto.com/how-to/hack-wi-fi-getting-started-with-terms-technologies-0147659/
+        <item>Cracking WPA2 Passwords Using the New PMKID Hashcat Attack</item>//https://null-byte.wonderhowto.com/how-to/hack-wi-fi-cracking-wpa2-passwords-using-new-pmkid-hashcat-attack-0189379/
+        <item>Stealing Wi-Fi Passwords with an Evil Twin Attack</item> // https://null-byte.wonderhowto.com/how-to/hack-wi-fi-stealing-wi-fi-passwords-with-evil-twin-attack-0183880/
+    </string-array>
+
+    <string-array name="Hacking" tools:ignore="DuplicateDefinition">
+        <item>Android Hacking</item>
+        <item>Bruteforce Attacks</item>
+        <item>Bug Bounty</item>
+        <item>By passing Firewall</item>
+        <item>Cryptography</item>
+        <item>Hardware Exploitation</item>
+        <item>Metasploit Hacking</item>
+        <item>Malware Analysis</item>
+        <item>Network Hacking</item>
+        <item>Password Hacking</item>
+        <item>RootKit</item>
+        <item>Scripting</item>
+        <item>Steganography</item>
+        <item>Spying</item>
+        <item>Wifi Hacking</item>
+        <item>Web Application Pentesting</item>
+        <item>Windows Hacking</item>
+        <item>Zero Day</item>
+    </string-array>
+
+    <string-array name="Choice">
+        <item>Documentation</item>
+        <item>Video Tutorial</item>
+    </string-array>
+
+    <string-array name="YoutubeChoice">
+        <item>Bug Bounty</item>
+        <item>Video Tutorial</item>
+    </string-array>
+
+
+    <string-array name="Tuts">
+        <item>RECONNAISSANCE</item>
+        <item>Cookies,Session</item>
+        <item>CRYPTOGRAPHY</item>
+        <item>DATABASE SECURITY</item>
+        <item>HTTP,HTTPS</item>
+        <item>DOS,DDOS Attack</item>
+        <item>INTRUSION DETECTION SYSTEMS (IDS)</item>
+        <item>ISO27001</item>
+        <item>MAN IN THE MIDDLE ATTACK</item>
+        <item>METASPOILT</item>
+        <item>NETWORK SECURITY</item>
+        <item>OWASP</item>
+        <item>SQL INJECTION</item>
+        <item>SECURITY ATTACKS</item>
+        <item>TYPES OF HACKERS</item>
+        <item>WIFI HACKING</item>
+        <item>XSS</item>
+    </string-array>
+
+    <string name="title_activity_doc">DocActivity</string>
+    <string name="faqs">
+       "\n \n 1. Is this a completely offline app? \n"
+       "Answer-> Yes it is completely offline. \n \n"
+
+       "2. How vast and deep the topics are covered in this app ?\n"
+       "Answer-> The amount of is at an intermediate level. \n \n"
+
+       "3. Does this app have ads ? \n"
+       "Answer-> Simply Nope. \n \n"
+
+       "4. Can we copy and paste material in this app ? \n"
+       "Answer -> No, copy and pasting of the study material is restricted. \n \n"
+
+       "5. What is the source of the material provided and is it verified ? \n"
+       "Answer-> Yes it is verified and most of the material is from different educational sites. \n \n"
+
+    </string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="title_activity_content">Content</string>
+    <string name="title_activity_demoscroll">demoscrollActivity</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
